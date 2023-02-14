@@ -102,6 +102,7 @@ namespace Kalkulator
             LiczbaPierwsza = "";
             LiczbaDruga = "";
             RodzajDzia³ania = ' ';
+            int tak;
         }
         private void Dzia³anie(int liczba)
         {
