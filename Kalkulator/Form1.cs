@@ -1,3 +1,4 @@
+//Prosty kalkulator
 namespace Kalkulator
 {
     public partial class Kalkulator : Form
